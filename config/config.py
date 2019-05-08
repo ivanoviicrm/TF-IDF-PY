@@ -1,0 +1,3 @@
+# RUTAS POR DEFECTO:
+DEFAULT_PDF_PATH = "../DocumentosPDF"
+DEFAULT_TXT_PATH = "../DocumentosTXT"
